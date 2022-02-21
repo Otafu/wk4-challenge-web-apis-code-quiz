@@ -24,7 +24,7 @@ Smaller devices screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://otafu.github.io/wk3-challenge-password-generator/
+https://otafu.github.io/wk4-challenge-web-apis-code-quiz/
 ```
 <a name="usage"></a>
 ## 3. Usage Tips
