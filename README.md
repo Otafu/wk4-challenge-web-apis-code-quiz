@@ -2,7 +2,7 @@
 
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
-3. [ Usage tips. ](#usage)
+3. [ Instructions. ](#instructions)
 
 <a name="desc"></a>
 ## 1. Description
@@ -26,8 +26,8 @@ Smaller devices screen:
 ```html
 https://otafu.github.io/wk4-challenge-web-apis-code-quiz/
 ```
-<a name="usage"></a>
-## 3. Usage Tips
+<a name="instructions"></a>
+## 3. Instructions
 
 
 ### Follow the criteria instructions to finish the quiz
