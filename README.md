@@ -32,8 +32,6 @@ https://otafu.github.io/wk4-challenge-web-apis-code-quiz/
 
 ### Follow the criteria instructions to finish the quiz
 
-Steps to navidate the quiz.
-
 
 ### Click Start Quiz
 
